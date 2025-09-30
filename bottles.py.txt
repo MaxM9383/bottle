@@ -6,6 +6,7 @@ while bottles > 0:
     print("and if one green bottle should accidentally fall,")
     print("they'll be", bottles-1, "green bottles hanging on the wall.")
     print()
-    bottles = bottles - 1
+    bottles = bottles - 4
 
 print('All gone')
+
